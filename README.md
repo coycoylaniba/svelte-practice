@@ -1,3 +1,3 @@
 # Svelte Practice
 
-I made this repository to practice svelete.
+I made this repository to practice svelte.
